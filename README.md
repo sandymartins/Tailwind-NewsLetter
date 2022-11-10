@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
 
+<p>Projeto criado para aprimorar meus conhecimentos no Framework Tailwind CSS</p>
 
 <h5>Para recomendações, sugestões, críticas construtivas me contate através: </h5>
 <img src="https://user-images.githubusercontent.com/52469840/193809017-acbe0c93-0eb2-4532-bf33-87031c61c3d4.png" alt="QR Code" width="10%">
